@@ -1,0 +1,55 @@
+body {
+  display: block;
+  margin: 0 auto;
+  padding: 40px;
+  max-width: 800px;
+}
+
+form {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.form-search {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.weather-details {
+  line-height: 180%;
+}
+
+.row {
+  margin: 0 auto;
+}
+
+.fa-cloud-sun {
+  font-size: 42px;
+  margin-top: 30px;
+}
+
+.humidity-value,
+.precipitation-value,
+.wind-value {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.col {
+  text-align: center;
+}
+
+.fa-sun,
+.fa-snowflake,
+.fa-poo-storm,
+.fa-cloud-showers-heavy,
+.fa-cloud-sun-rain {
+  font-size: 36px;
+}
